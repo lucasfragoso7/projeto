@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "ALEGRIA",
+    "DESGOSTO",
+    "MEDO",
+    "RAIVA",
+    "SURPRESA",
+    "TRISTEZA"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
